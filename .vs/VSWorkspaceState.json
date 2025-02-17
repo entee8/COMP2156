@@ -3,7 +3,9 @@
     "",
     "\\.github",
     "\\.github\\workflows",
-    "\\build"
+    "\\build",
+    "\\src"
   ],
+  "SelectedNode": "\\src\\App.js",
   "PreviewInSolutionExplorer": false
 }
